@@ -2,7 +2,7 @@
 
 An interactive Tableau dashboard for monitoring multi-vendor LTE network performance and surfacing degrading or anomalous sites — modeled after the kind of monthly vendor-performance reporting I build in my current role as a network analytics engineer.
 
-**[View live on Tableau Public →](#)** *(link to be added once published)*
+**[View live on Tableau Public →](https://public.tableau.com/app/profile/marthony.rigor/viz/Network_Health/VendorComparisonDashboard)**
 
 ---
 
